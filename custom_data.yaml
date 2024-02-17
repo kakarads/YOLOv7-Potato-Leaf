@@ -1,0 +1,6 @@
+train: ./data/train 
+val: ./data/val  
+
+# number of classes
+nc: 3
+names: ['potato_Early_blight', 'potato___Late_blight', 'potato_healthy']
